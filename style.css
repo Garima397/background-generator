@@ -1,0 +1,28 @@
+/* BACKGROUND GENERATOR */
+
+body {
+  font: 'Raleway', sans-serif;
+  color: rgba(0,0,0, 5);
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: .5em;
+  top: 15%;
+  background: linear-gradient(to right, red, yellow);
+}
+
+h1 {
+  font: 100 3.5em 'Raleway', sans-serif;
+  color: black;
+  text-align: center;
+  width: 100%;
+  background-color: rgba(75, 137, 192, 0.171);
+  box-shadow: inset 1px 1px 20px 0px rgba(0, 0, 0, 0.116);
+}
+
+h3 {
+  font: 500 1em 'Raleway', sans-serif;
+  color: rgba(0,0,0, 5);
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: .01em;
+}
